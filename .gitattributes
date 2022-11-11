@@ -1,3 +1,5 @@
 led_wireless_mouse.xlsx filter=lfs diff=lfs merge=lfs -text
 led_wireless_mouse.csv filter=lfs diff=lfs merge=lfs -text
 reviews.ipynb filter=lfs diff=lfs merge=lfs -text
+scraped_reviews.csv filter=lfs diff=lfs merge=lfs -text
+scraped_reviews.xlsx filter=lfs diff=lfs merge=lfs -text
