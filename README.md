@@ -13,3 +13,5 @@
     - Moreover, the WordCloud images can be seen in the img folder.
 
 4. The model folder has two approches ml_algo and deep_learning for results comparison (in progress). 
+
+**NB: classes 0, 1 & 2 represent negative reviews (-1), neutral (0)reviews & positive reviews(1) respectively.**
