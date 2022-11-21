@@ -12,4 +12,4 @@
     - Two approaches will be taken into account using a cleaned dataset without spelling correctiion and one with spelling correction and see which result performs better (cleaned_reviews & correct_spelling_reviews). 
     - Moreover, the WordCloud images can be seen in the img folder.
 
-4. The model folder has two approches ml_algo and deep_learning for results comparison (yet to be done). 
+4. The model folder has two approches ml_algo and deep_learning for results comparison (in progress). 
