@@ -1,0 +1,8 @@
+data_analysis/analysis copy.ipynb
+model/ml_algo/BOW/model_bow copy.ipynb
+model/ml_algo/BOW/check.ipynb
+model/ml_algo/BOW/count_vectorizer.pkl
+model/ml_algo/BOW/model.pkl
+model/ml_algo/BOW/bow_predictor.ipynb
+# model/ml_algo/W2V
+# .gitignore
