@@ -1,0 +1,13 @@
+https://groups.google.com/g/gensim/c/A0dNogEIw7g
+https://github.com/RaRe-Technologies/movie-plots-by-genre/blob/master/ipynb_with_output/Document%20classification%20with%20word%20embeddings%20tutorial%20-%20with%20output.ipynb
+https://stackoverflow.com/questions/58412763/default-values-of-doc2vec-for-alpha-and-min-alpha#:~:text=...the%20defaults%20are%20alpha,%3D0.025%2C%20min_alpha%3D0.0001%20.
+https://groups.google.com/g/gensim/c/-YpxEbZvrZE
+https://groups.google.com/g/gensim/c/FlA-efO8J8g
+https://stackoverflow.com/questions/73254708/what-is-the-purpose-of-tags-in-doc2vec-taggeddocument
+https://stackoverflow.com/questions/62801052/my-doc2vec-code-after-many-loops-epochs-of-training-isnt-giving-good-results
+https://radimrehurek.com/gensim/models/doc2vec.html?highlight=doc2vec#module-gensim.models.doc2vec
+https://radimrehurek.com/gensim/auto_examples/tutorials/run_doc2vec_lee.html#sphx-glr-auto-examples-tutorials-run-doc2vec-lee-py
+https://medium.com/@morga046/multi-class-text-classification-with-doc2vec-and-t-sne-a-full-tutorial-55eb24fc40d3
+https://towardsdatascience.com/multi-class-text-classification-with-doc2vec-logistic-regression-9da9947b43f4
+https://michael-fuchs-python.netlify.app/2021/09/01/nlp-word-embedding-with-gensim-for-text-classification/#instantiation-1
+https://stackoverflow.com/questions/22272370/word2vec-effect-of-window-size-used
