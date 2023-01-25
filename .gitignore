@@ -4,5 +4,13 @@ model/ml_algo/BOW/check.ipynb
 model/ml_algo/BOW/count_vectorizer.pkl
 model/ml_algo/BOW/model.pkl
 model/ml_algo/BOW/bow_predictor.ipynb
+model/deep_learning/LSTM/w2v_200_2_dense.ipynb
+model/deep_learning/Bidirectional_LSTM/functional_approach
+# model/deep_learning/Bidirectional_LSTM/predictor
+# model/deep_learning/Bidirectional_LSTM/saved_model
+model/deep_learning/Bidirectional_LSTM/subclassing
+model/deep_learning/Bidirectional_LSTM/tf_lite_model
+model/deep_learning/Bidirectional_LSTM/w2v_200_2_dense.ipynb
+model/deep_learning/SIMPLE_NN/d2v_dbow_100.ipynb
 # model/ml_algo/W2V
 # .gitignore
