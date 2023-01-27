@@ -44,6 +44,8 @@ LSTM|Doc2Vec-Concated(PV-DM + PVDBOW)-200|0.24|0.5
 Bidirectional-LSTM|Doc2Vec-Concated(PV-DM + PVDBOW)-200|0.82|0.95
 GRU|Doc2Vec-Concated(PV-DM + PVDBOW)-200|0.82|0.95
 Bidirectional-GRU|Doc2Vec-Concated(PV-DM + PVDBOW)-200|0.84|0.95
+BERT-uncasednotebook-1|BERT-uncased-preprocessing|0.47|N/A
+BERT-uncased-notebook-2|BERT-uncased-preprocessing|0.55|N/A
 
 
 **While using ML ALGO**
@@ -66,3 +68,9 @@ The next step is to make use of deep learning algorithms on the following text r
 - It seems that the use of PV-DBOW with a vector size of 200 with neural network models does not improve its performance metrics. It seems the use of PV-DBOW will perform better with the use of a smaller vector space as shown in the table above. **Recommended model to use KNNClassifier (less training time)** 
 - It can be seen that using PV-DM-200 with neural network models does improve its overall performance except with the use of LSTM and GRU (unidirectional models). **Recommended models to use Bidirectional-LSTM or Convolutional Neural Network**
 - Using Doc2Vec-Concated(PV-DM + PVDBOW)-200 with neural network models does improve the performance metrics except with the use of LSTM. **Recommended models to use Bidirectional-GRU or Convolutional Neural Network (less training time)**
+
+**While using Transfer-learning (BERT-uncased)**
+- BERT is a powerful model but needs to be fine-tuned to properly make use of it, as seen from the confusion matrix, there is a lot of misclassifications. 
+- A larger dataset will aid in the aid and also a balanced dataset.
+- Due to computational speed running on (CPU rather than GPU), a low epochs was used, but increasing the epochs or tuning the optimiser or even adding more layers will  aid in the model's performance.
+- From the table of results based on the f1-score macro its safe to say that there is random guessing, in terms of AUC score. 
