@@ -12,5 +12,8 @@ model/deep_learning/Bidirectional_LSTM/subclassing
 model/deep_learning/Bidirectional_LSTM/tf_lite_model
 model/deep_learning/Bidirectional_LSTM/w2v_200_2_dense.ipynb
 model/deep_learning/SIMPLE_NN/d2v_dbow_100.ipynb
+model/deep_learning/bert_transfer_learning/saved_model
+model/deep_learning/bert_transfer_learning/saved_model_hub
+model/deep_learning/bert_transfer_learning/important_links.txt
 # model/ml_algo/W2V
 # .gitignore
