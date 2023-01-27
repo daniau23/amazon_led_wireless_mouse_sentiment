@@ -44,8 +44,8 @@ LSTM|Doc2Vec-Concated(PV-DM + PVDBOW)-200|0.24|0.5
 Bidirectional-LSTM|Doc2Vec-Concated(PV-DM + PVDBOW)-200|0.82|0.95
 GRU|Doc2Vec-Concated(PV-DM + PVDBOW)-200|0.82|0.95
 Bidirectional-GRU|Doc2Vec-Concated(PV-DM + PVDBOW)-200|0.84|0.95
-BERT-uncasednotebook-1|BERT-uncased-preprocessing|0.47|N/A
-BERT-uncased-notebook-2|BERT-uncased-preprocessing|0.55|N/A
+BERT-uncasednotebook-1|BERT-uncased-preprocessing|0.55|N/A
+BERT-uncased-notebook-2|BERT-uncased-preprocessing|0.47|N/A
 
 
 **While using ML ALGO**
