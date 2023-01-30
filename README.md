@@ -12,6 +12,8 @@
     - Two approaches will be taken into account using a cleaned dataset without spelling correctiion and one with spelling correction and see which result performs better (cleaned_reviews & correct_spelling_reviews). 
     - Moreover, the WordCloud images can be seen in the img folder.
 
-4. The model folder has two approches ml_algo and deep_learning for results comparison (in progress). 
+4. The model folder has two approches ml_algo and deep_learning for results comparison. 
 
-**NB: classes 0, 1 & 2 represent negative reviews (-1), neutral (0)reviews & positive reviews(1) respectively.**
+
+
+**NB: Classes 0, 1 & 2 represent negative reviews (-1), neutral (0)reviews & positive reviews(1) respectively. Please refer to ml_algo/README.md for experimental results on deep learning vs ML_algo**
